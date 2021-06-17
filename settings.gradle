@@ -1,0 +1,4 @@
+rootProject.name = "anno"
+include ':app'
+include ':annotations'
+include ':compiler'
